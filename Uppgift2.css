@@ -1,0 +1,26 @@
+body{
+background-color:pink;
+}
+h1{
+    font-family:"Arial";
+    font-size:22px;
+}
+.programstycke{
+    background-color:purple;
+    color:red;
+    text-align:center;
+}
+.tankar{
+    text-align:right;
+        color: purple;
+}
+a{
+    text-decoration:none
+}
+.om-mig{
+    border:4px dotted #65208D;
+}
+p{
+    color:#71006D;
+    font-family;"Georgia"
+}
